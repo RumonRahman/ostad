@@ -1,0 +1,8 @@
+//create repository
+git init
+git add .
+git commit -m "commit message"
+git branch -M main
+git remote add origin https://github.com/RumonRahman/ostad.git
+git push -u origin main
+//repository update
